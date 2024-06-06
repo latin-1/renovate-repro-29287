@@ -1,1 +1,5 @@
-{}
+{
+  "env": {
+    "YARN_ENABLE_CONSTRAINTS_CHECKS": "0"
+  }
+}
